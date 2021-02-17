@@ -72,5 +72,5 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 chsh -s /bin/zsh
 
 #Compile php extension
-pecl install imagick
-brew services restart php
+#pecl install imagick // currently not working on php 8
+#brew services restart php
