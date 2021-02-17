@@ -34,7 +34,6 @@ brew install rename
 brew install ssh-copy-id
 
 # Install custom software
-
 brew install --cask phpstorm
 brew install --cask google-chrome
 brew install --cask tableplus
@@ -50,6 +49,14 @@ brew install --cask firefox
 brew install --cask anydesk
 brew install --cask franz
 brew install --cask imageoptim
+brew install --cask adobe-creative-cloud
+brew install --cask google-backup-and-sync
+brew install --cask screaming-frog-seo-spider
+brew install --cask the-unarchiver
+brew install --cask visual-studio-code
+brew install --cask tunnelblick
+brew install --cask teamviewer
+brew install --cask 1password
 
 # Remove outdated versions from the cellar.
 brew cleanup
