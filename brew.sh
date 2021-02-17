@@ -20,7 +20,7 @@ brew install coreutils
 ln -s "${BREW_PREFIX}/bin/gsha256sum" "${BREW_PREFIX}/bin/sha256sum"
 
 # Install `wget` with IRI support.
-brew install wget --with-iri
+brew install wget
 
 # Install more recent versions of some macOS tools.
 brew install grep
