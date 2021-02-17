@@ -27,7 +27,7 @@ brew install php
 # Install other useful binaries.
 brew install git
 brew install ghostscript
-brew install imagemagick --with-webp
+brew install imagemagick
 brew install p7zip
 brew install pigz
 brew install rename
