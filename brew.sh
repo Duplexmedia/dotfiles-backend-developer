@@ -54,7 +54,7 @@ brew install --cask anydesk
 brew install --cask franz
 brew install --cask imageoptim
 brew install --cask adobe-creative-cloud
-brew install --cask google-backup-and-sync
+brew install --cask google-drive-file-stream
 brew install --cask screaming-frog-seo-spider
 brew install --cask the-unarchiver
 brew install --cask visual-studio-code
