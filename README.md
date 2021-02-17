@@ -6,5 +6,5 @@
 3. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 4. `./.macos`
 5. `./brew.sh`
-6. `./exports.sh`
-6. `./aliases.sh`
+6. `./.exports`
+6. `./.aliases`
