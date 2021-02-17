@@ -32,6 +32,7 @@ brew install p7zip
 brew install pigz
 brew install rename
 brew install ssh-copy-id
+brew install pkg-config
 
 # Install custom software
 brew install --cask phpstorm
@@ -66,3 +67,7 @@ brew cleanup
 #Install oh my zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s /bin/zsh
+
+#Compile php extension
+pecl install imagick
+brew services restart php
