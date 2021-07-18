@@ -44,7 +44,7 @@ brew install --cask tableplus
 brew install --cask postman
 brew install termius
 brew install --cask cyberduck
-brew install node
+brew install node@14
 brew install --cask docker
 brew install docker-compose
 brew install --cask virtualbox
