@@ -52,6 +52,7 @@ brew install --cask vagrant
 brew install --cask firefox
 brew install --cask anydesk
 brew install --cask franz
+brew install --cask slack
 brew install --cask imageoptim
 brew install --cask adobe-creative-cloud
 brew install --cask google-drive-file-stream
