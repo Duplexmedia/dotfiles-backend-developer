@@ -63,7 +63,6 @@ brew install --cask tunnelblick
 brew install --cask teamviewer
 brew install --cask 1password
 brew install gulp-cli
-brew install dockutil
 
 # Remove outdated versions from the cellar.
 brew cleanup
