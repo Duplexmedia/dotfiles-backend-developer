@@ -42,7 +42,6 @@ brew install --cask phpstorm
 brew install --cask google-chrome
 brew install --cask tableplus
 brew install --cask postman
-brew install termius
 brew install --cask cyberduck
 brew install node@14
 brew install --cask docker
@@ -63,6 +62,7 @@ brew install --cask tunnelblick
 brew install --cask teamviewer
 brew install --cask 1password
 brew install --cask tuple
+brew install --cask termius
 brew install gulp-cli
 
 # Remove outdated versions from the cellar.
