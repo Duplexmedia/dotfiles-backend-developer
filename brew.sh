@@ -62,6 +62,7 @@ brew install --cask visual-studio-code
 brew install --cask tunnelblick
 brew install --cask teamviewer
 brew install --cask 1password
+brew install --cask tuple
 brew install gulp-cli
 
 # Remove outdated versions from the cellar.
