@@ -46,8 +46,6 @@ brew install --cask cyberduck
 brew install node@14
 brew install --cask docker
 brew install docker-compose
-brew install --cask virtualbox
-brew install --cask vagrant
 brew install --cask firefox
 brew install --cask anydesk
 brew install --cask franz
