@@ -228,3 +228,5 @@ echo "Done. Note that some of these changes require a logout/restart to take eff
 ###############################################################################
 ssh-keygen -q -t rsa -N '' -f ~/.ssh/id_rsa <<<y >/dev/null 2>&1
 chmod 700 ~/.ssh
+
+sudo fdesetup enable
