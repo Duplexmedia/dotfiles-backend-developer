@@ -43,7 +43,7 @@ brew install --cask google-chrome
 brew install --cask tableplus
 brew install --cask postman
 brew install --cask cyberduck
-brew install node@14
+brew install node@20
 brew install --cask docker
 brew install docker-compose
 brew install --cask firefox
