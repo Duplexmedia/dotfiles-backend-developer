@@ -64,6 +64,7 @@ brew install --cask termius
 brew install --cask zoom
 brew install --cask microsoft-office
 brew install --cask sipgate-softphone
+brew install --cask ray
 brew install gulp-cli
 
 # Remove outdated versions from the cellar.
