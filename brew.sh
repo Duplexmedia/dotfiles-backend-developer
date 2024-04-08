@@ -48,7 +48,6 @@ brew install --cask docker
 brew install docker-compose
 brew install --cask firefox
 brew install --cask anydesk
-brew install --cask franz
 brew install --cask slack
 brew install --cask imageoptim
 brew install --cask adobe-creative-cloud
