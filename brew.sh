@@ -37,6 +37,7 @@ brew install rename
 brew install ssh-copy-id
 brew install pkg-config
 brew install mkcert
+mkcert --install
 brew install nss
 
 # Install custom software
