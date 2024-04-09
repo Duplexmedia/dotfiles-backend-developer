@@ -37,6 +37,7 @@ brew install rename
 brew install ssh-copy-id
 brew install pkg-config
 brew install mkcert
+brew install nss
 
 # Install custom software
 brew install --cask phpstorm
