@@ -36,6 +36,7 @@ brew install pigz
 brew install rename
 brew install ssh-copy-id
 brew install pkg-config
+brew install mkcert
 
 # Install custom software
 brew install --cask phpstorm
