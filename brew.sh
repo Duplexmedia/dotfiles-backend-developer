@@ -39,6 +39,7 @@ brew install pkg-config
 brew install mkcert
 mkcert --install
 brew install nss
+brew install composer
 
 # Install custom software
 brew install --cask phpstorm
