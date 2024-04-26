@@ -40,6 +40,7 @@ brew install mkcert
 mkcert --install
 brew install nss
 brew install composer
+brew install pre-commit
 
 # Install custom software
 brew install --cask phpstorm
