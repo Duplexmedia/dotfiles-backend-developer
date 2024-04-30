@@ -71,6 +71,7 @@ brew install --cask sipgate-softphone
 brew install --cask ray
 brew install --cask figma
 brew install --cask pitch
+brew install --cask libreoffice
 brew install gulp-cli
 
 # Remove outdated versions from the cellar.
